@@ -1,0 +1,32 @@
+[
+  {
+    "path": "发现音乐",
+    "type": "path",
+    "link": "/discover"
+  },
+  {
+    "path": "我的音乐",
+    "type": "path",
+    "link": "/mine"
+  },
+  {
+    "path": "关注",
+    "type": "path",
+    "link": "/focus"
+  },
+  {
+    "path": "商城",
+    "type": "link",
+    "link": "http://m.music.163.com/store/product"
+  },
+  {
+    "path": "音乐人",
+    "type": "link",
+    "link": "http://m.music.163.com/store/product"
+  },
+  {
+    "path": "下载客户端",
+    "type": "link",
+    "link": "http://m.music.163.com/#/download"
+  }
+]
